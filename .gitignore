@@ -1,3 +1,6 @@
+# Javaino (JoC)
+*.ini
+
 # Compiled class file
 *.class
 
