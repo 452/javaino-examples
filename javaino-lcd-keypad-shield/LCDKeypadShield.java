@@ -34,11 +34,11 @@ public class LCDKeypadShield {
             config.upKeyPressed();
             return;
         };
-        if (adcKeyIn < 460) {
+        if (adcKeyIn < 470) {
             config.downKeyPressed();
             return;
         }
-        if (adcKeyIn < 720) {
+        if (adcKeyIn < 730) {
             config.leftKeyPressed();
             return;
         }
