@@ -6,6 +6,8 @@ Javaino - Java on microcontroller, bare metal JVM
 1. [LCD1602 via GPIO](javaino-lcd-keypad-shield)
 1. [bme280](bme280-i2c)
 1. [iLCD i2c Scanner](iLCD/i2c-scanner)
+1. [iLCD sdcard](iLCD/sdcard)
+
 
 ### Development board:
 1. [Javaino](https://joc.systems/en/hardware/javaino.html)
